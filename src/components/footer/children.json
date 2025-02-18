@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_footer_children",
+  "info": {
+    "displayName": "children"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

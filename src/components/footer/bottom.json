@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_footer_bottoms",
+  "info": {
+    "displayName": "bottom"
+  },
+  "options": {},
+  "attributes": {
+    "english": {
+      "type": "string"
+    },
+    "privacy": {
+      "type": "string"
+    },
+    "legal": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

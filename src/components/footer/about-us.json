@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_footer_aboutuses",
+  "info": {
+    "displayName": "titleWithLinks",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "links": {
+      "displayName": "links",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.links"
+    }
+  }
+}

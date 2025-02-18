@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_footer_tops",
+  "info": {
+    "displayName": "top",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "address": {
+      "type": "text"
+    },
+    "activeCustomers": {
+      "type": "string"
+    },
+    "aboutUs": {
+      "displayName": "aboutUs",
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.about-us"
+    },
+    "legal": {
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.about-us"
+    },
+    "resources": {
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.about-us"
+    },
+    "stayConnected": {
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.about-us"
+    }
+  }
+}
