@@ -7,22 +7,28 @@
   "options": {},
   "attributes": {
     "policyNoLabel": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "passportNoLabel": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "fromInceptionDateLabel": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "statusLabel": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "toDate": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "insuredNameLabel": {
-      "type": "string"
+      "type": "string",
+      "required": true
     }
   }
 }
